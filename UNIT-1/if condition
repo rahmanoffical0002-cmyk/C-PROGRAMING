@@ -4,7 +4,7 @@ int main()
     int num1;
     if (num1 >= 1)
     {
-        printf("number is positive")
+        printf("number is positive");
     }
     return 0;
 }
