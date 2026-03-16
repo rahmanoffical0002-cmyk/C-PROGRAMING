@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main()
+{
+    int num1;
+    if (num1 >= 1)
+    {
+        printf("number is even");
+    }
+    else{
+        printf("number is  odd");
+    }
+    return 0;
+}
